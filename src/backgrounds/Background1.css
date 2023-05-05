@@ -1,0 +1,22 @@
+.background1 {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.background2 {
+    background-image: url('../images/about.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.background3 {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.parallax-container {
+    position: relative;
+    height: 300vh;
+}
