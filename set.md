@@ -1,6 +1,8 @@
 Usage for GIT
 andriusskaulakys
-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
+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
+
+git add . 
 
 git commit -m "your commit message here"
 
